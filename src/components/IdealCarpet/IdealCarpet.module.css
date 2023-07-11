@@ -1,0 +1,28 @@
+.section {
+}
+.slider {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  list-style: none;
+  margin: 0 auto;
+  width: 80vw;
+}
+.next {
+  fill: black;
+}
+
+.prev {
+  fill: black;
+}
+.navBtn {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  justify-content: center;
+  align-items: center;
+}
+.navSection {
+  display: flex;
+  flex-direction: row;
+}

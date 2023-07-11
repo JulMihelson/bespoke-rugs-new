@@ -1,6 +1,6 @@
 export const Hero = () => {
   return (
-    <>
+    <section id="hero">
       <h1>Інвестуйте в мистецтво, став власником ексклюзивного килима</h1>
       <ul>
         <li>Ідеально поєднуються зі стилем вашого інтер'єру</li>
@@ -14,6 +14,6 @@ export const Hero = () => {
           <use href="../images/svg/arrow.svg"></use>
         </svg>
       </button>
-    </>
+    </section>
   );
 };

@@ -1,0 +1,86 @@
+{
+  "examples": [
+    {
+      "id": 2341784,
+      "preview": "https://bespoke-rug.com/assets/images/content/interiors_img1.jpg",
+      "previewWidth": 150,
+      "previewHeight": 99,
+      "webformat": "https://bespoke-rug.com/assets/images/content/interiors_img1.jpg",
+      "webformatWidth": 640,
+      "webformatHeight": 426,
+      "largeImage": "https://bespoke-rug.com/assets/images/content/interiors_img1.jpg",
+      "imageWidth": 5184,
+      "imageHeight": 3456
+    },
+
+    {
+      "id": 3470783,
+      "preview": "https://bespoke-rug.com/assets/images/content/interiors_img2.jpg",
+      "previewWidth": 150,
+      "previewHeight": 84,
+      "webformat": "https://bespoke-rug.com/assets/images/content/interiors_img2.jpg",
+      "webformatWidth": 640,
+      "webformatHeight": 360,
+      "largeImage": "https://bespoke-rug.com/assets/images/content/interiors_img2.jpg",
+      "imageWidth": 3840,
+      "imageHeight": 2160,
+      "imageSize": 798202
+    },
+
+    {
+      "id": 3470780,
+      "preview": "https://bespoke-rug.com/assets/images/content/interiors_img3.jpg",
+      "previewWidth": 150,
+      "previewHeight": 84,
+      "webformat": "https://bespoke-rug.com/assets/images/content/interiors_img3.jpg",
+      "webformatWidth": 640,
+      "webformatHeight": 360,
+      "largeImage": "https://bespoke-rug.com/assets/images/content/interiors_img3.jpg",
+      "imageWidth": 3840,
+      "imageHeight": 2160,
+      "imageSize": 783231
+    },
+
+    {
+      "id": 7212133,
+      "preview": "https://bespoke-rug.com/assets/images/content/interiors_img4.jpg",
+      "previewWidth": 150,
+      "previewHeight": 48,
+      "webformat": "https://bespoke-rug.com/assets/images/content/interiors_img4.jpg",
+      "webformatWidth": 640,
+      "webformatHeight": 205,
+      "largeImage": "https://bespoke-rug.com/assets/images/content/interiors_img4.jpg",
+      "imageWidth": 5490,
+      "imageHeight": 1756,
+      "imageSize": 160560
+    },
+
+    {
+      "id": 1047228,
+      "preview": "https://bespoke-rug.com/assets/images/content/interiors_img5.jpg",
+      "previewWidth": 150,
+      "previewHeight": 99,
+      "webformat": "https://bespoke-rug.com/assets/images/content/interiors_img5.jpg",
+      "webformatWidth": 640,
+      "webformatHeight": 426,
+      "largeImage": "https://bespoke-rug.com/assets/images/content/interiors_img5.jpg",
+      "imageWidth": 4752,
+      "imageHeight": 3168,
+      "imageSize": 3665695
+    },
+
+    {
+      "id": 7212079,
+      "preview": "https://bespoke-rug.com/assets/images/content/interiors_img6.jpg",
+      "previewWidth": 150,
+      "previewHeight": 109,
+      "webformat": "https://bespoke-rug.com/assets/images/content/interiors_img6.jpg",
+      "webformatWidth": 640,
+      "webformatHeight": 465,
+      "largeImage": "https://bespoke-rug.com/assets/images/content/interiors_img6.jpg",
+      "imageWidth": 3300,
+      "imageHeight": 2400,
+      "imageSize": 3322271
+    }
+  ]
+}
