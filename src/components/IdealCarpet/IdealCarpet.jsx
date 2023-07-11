@@ -1,4 +1,4 @@
-import css from "./IdealCarpet.module.css";
+// import css from "./IdealCarpet.module.css";
 import { Carousel } from "react-carousel-minimal";
 
 export const IdealCarpet = () => {
