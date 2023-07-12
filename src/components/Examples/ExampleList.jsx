@@ -3,7 +3,14 @@ import PropTypes from "prop-types";
 import css from "./ExampleList.module.css";
 export const ExampleList = ({ examples }) => {
   return (
-    <>
+    <section className={css.container}>
+      <h2>Килими ручної роботи для ексклюзивних інтер'єрів</h2>
+      <p>
+        Наші килими ручної роботи - справжні витвори мистецтва, створені у
+        єдиному екземплярі. Іх по достоїнству оцінять люди, які прагнуть оточити
+        себе цінними, унікальними речами і грамотно інвестувати свої кошти.
+        Килими від нашого ательє стануть ідеальною прикрасою для:{" "}
+      </p>
       <ul className={css.exampleListGallery}>
         {examples.map((item) => (
           <Examples
@@ -13,7 +20,7 @@ export const ExampleList = ({ examples }) => {
           />
         ))}
       </ul>
-    </>
+    </section>
   );
 };
 

@@ -1,6 +1,6 @@
 .exampleListGallery {
-  list-style: none;
   display: flex;
+  list-style: none;
   flex-wrap: wrap;
   gap: 40px;
 }
