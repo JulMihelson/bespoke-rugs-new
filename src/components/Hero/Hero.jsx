@@ -16,7 +16,7 @@ export const Hero = () => {
       ) : (
         <>
           <h1 className={css.heroTitle}>
-            Інвестуйте в мистецтво, став власником{" "}
+            Інвестуйте в мистецтво, ставши власником{" "}
             <span>ексклюзивного килима</span>
           </h1>
           <ul className={css.heroList}>
