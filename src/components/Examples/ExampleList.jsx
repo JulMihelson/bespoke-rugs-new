@@ -1,11 +1,14 @@
 import { Examples } from "./Examples";
 import PropTypes from "prop-types";
 import css from "./ExampleList.module.css";
+
 export const ExampleList = ({ examples }) => {
   return (
     <section className={css.container}>
-      <h2>Килими ручної роботи для ексклюзивних інтер'єрів</h2>
-      <p>
+      <h2 className={css.exampleTitle}>
+        <span>Килими ручної роботи</span> для ексклюзивних інтер'єрів
+      </h2>
+      <p className={css.description}>
         Наші килими ручної роботи - справжні витвори мистецтва, створені у
         єдиному екземплярі. Іх по достоїнству оцінять люди, які прагнуть оточити
         себе цінними, унікальними речами і грамотно інвестувати свої кошти.

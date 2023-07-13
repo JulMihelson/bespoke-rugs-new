@@ -1,4 +1,4 @@
-// import css from "./IdealCarpet.module.css";
+import css from "./IdealCarpet.module.css";
 import { Carousel } from "react-carousel-minimal";
 
 export const IdealCarpet = () => {
@@ -41,8 +41,10 @@ export const IdealCarpet = () => {
     margin: "0 auto",
   };
   return (
-    <>
-      <h2>Яким може бути Ваш ідеальний килим ручної роботи?</h2>
+    <section className={css.container}>
+      <h2 className={css.idealTitle}>
+        Яким може бути Ваш <span>ідеальний килим</span> ручної роботи?
+      </h2>
       <div className="App">
         <div style={{ textAlign: "center" }}>
           <div
@@ -78,6 +80,6 @@ export const IdealCarpet = () => {
           </div>
         </div>
       </div>
-    </>
+    </section>
   );
 };

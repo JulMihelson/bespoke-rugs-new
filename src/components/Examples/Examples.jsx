@@ -18,7 +18,7 @@ export const Examples = ({ webformat }) => {
             // onClick={handleOnClick}
             alt="That Wanaka Tree, New Zealand by Laura Smetsers"
             src={webformat}
-            width="500"
+            width="350"
           />
         </Zoom>
         {/* <img onClick={handleOnClick} src={webformat} alt="килим" /> */}

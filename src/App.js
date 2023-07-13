@@ -5,7 +5,7 @@ import { Header } from "./components/Header/Header";
 import { Hero } from "./components/Hero/Hero";
 import data from "../src/components/Examples/DataBase.json";
 import { IdealCarpet } from "./components/IdealCarpet/IdealCarpet";
-import { Production } from "./components/Production/Production";
+// import { Production } from "./components/Production/Production";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Hero />
       <ExampleList examples={data.examples} />
       <IdealCarpet />
-      <Production />
+      {/* <Production /> */}
     </>
   );
 }
