@@ -11,19 +11,14 @@ export const Examples = ({ webformat }) => {
   //   setModalIsOpen((modalIsOpen) => !modalIsOpen);
   // };
   return (
-    <li className={css.grid}>
-      <figure className={css.effectLily}>
-        <img
-          src="https://tympanus.net/Development/HoverEffectIdeas/img/1.jpg"
-          alt="img01"
-        />
-        <figcaption>
-          <h2>
-            Nice <span>Lily</span>
-          </h2>
-          <p>Lily likes to play with crayons and pencils</p>
-        </figcaption>
-      </figure>
+    <li className={css.content}>
+      <div className={css.overlay}></div>
+      <img className={css.image} src={webformat} alt="img01" />
+      <div className={`${css.contentDetails} ${css.fadeInBottom}`}>
+        <h3 className={css.contentTitle}>DESCRIPTION</h3>
+        <p className={css.contentText}>This is a short description</p>
+      </div>
+
       {/* <Zoom>
           <img
             // onClick={handleOnClick}
