@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bespoke-rugs-new/static/css/main.39716c01.css",
+    "main.js": "/bespoke-rugs-new/static/js/main.31c45800.js",
+    "static/js/787.19c741bd.chunk.js": "/bespoke-rugs-new/static/js/787.19c741bd.chunk.js",
+    "index.html": "/bespoke-rugs-new/index.html",
+    "main.39716c01.css.map": "/bespoke-rugs-new/static/css/main.39716c01.css.map",
+    "main.31c45800.js.map": "/bespoke-rugs-new/static/js/main.31c45800.js.map",
+    "787.19c741bd.chunk.js.map": "/bespoke-rugs-new/static/js/787.19c741bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39716c01.css",
+    "static/js/main.31c45800.js"
+  ]
+}
