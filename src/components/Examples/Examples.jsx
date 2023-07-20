@@ -18,15 +18,6 @@ export const Examples = ({ webformat }) => {
         <h3 className={css.contentTitle}>DESCRIPTION</h3>
         <p className={css.contentText}>This is a short description</p>
       </div>
-
-      {/* <Zoom>
-          <img
-            // onClick={handleOnClick}
-            alt="That Wanaka Tree, New Zealand by Laura Smetsers"
-            src={webformat}
-            width="350"
-          />
-        </Zoom> */}
     </li>
   );
 };
